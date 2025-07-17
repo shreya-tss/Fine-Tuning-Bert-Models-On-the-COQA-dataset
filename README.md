@@ -24,7 +24,7 @@ real-world domain-specific QA tasks.
 CoQA (Conversational Question Answering) is a benchmark designed to evaluate a model's ability to understand multi-turn, contextual conversations, rather than just isolated Q&A.
 Models like MobileBERT, TinyBERT, RoBERTa, and ELECTRA were introduced to either optimize BERT for edge devices (e.g., mobile apps) or improve training efficiency and performance.
 Benchmarking them on CoQA provides insights into how well these compact or optimized models handle conversational context, a critical aspect of real-world dialogue systems.
-This evaluation helps us understand their performance in related tasks such a
+This evaluation helps us understand their performance in related tasks such as
 - Semantic re-ranking (e.g., choosing the best response)
 - Context-aware encoding for dialogue systems
 - Memory-driven chatbots
